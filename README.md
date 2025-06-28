@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Saumya Singh
 
-🎓 B.Tech CSE Student | CSJM University  
+🎓 B.Tech CSE Student 
 💻 Aspiring Developer | Learning Java  
 🌟 Passionate about creating clean, user-friendly websites
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🚀 Projects
 
 - 🎮 **[Simon Says Game](https://github.com/saumyasingh-111/simon-says-game)**  
   A memory-based color game built with JavaScript and DOM manipulation.
