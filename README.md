@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+with+a+Game+Vibe+🎮;Frontend+Fan+%7C+React+Lover+%7C+Learning+Java;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+🎮;Web+Developer+%7C+React+%7C+Learning+Java;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
