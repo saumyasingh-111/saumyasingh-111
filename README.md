@@ -28,7 +28,7 @@
 - 🌍 **[Wanderlust](https://github.com/saumyasingh-111/Wanderlust)**  
   A JavaScript project that plays with ideas of travel and interactivity.
 
-- 🎯 **[Wanderlust](https://github.com/saumyasingh-111/Todo-List)**  
+- 🎯 **[Todo-App](https://github.com/saumyasingh-111/Todo-List)**  
   React Todo App — A Simple Task Manager.
 
 ---
