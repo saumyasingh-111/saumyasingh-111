@@ -25,8 +25,8 @@
 - 🎵 **[Spotify Clone](https://github.com/saumyasingh-111/spotify-clone)**  
   A simple front-end clone of the Spotify landing page using only HTML & CSS.
 
-- 🌍 **[Wanderlust](https://github.com/saumyasingh-111/Wanderlust)**  
-  A JavaScript project that plays with ideas of travel and interactivity.
+- 🌍 **[Artzy](https://github.com/saumyasingh-111/Wanderlust)**  
+  A Full-Stack project that plays with ideas of travel and interactivity.
 
 - 🎯 **[Todo-App](https://github.com/saumyasingh-111/Todo-List)**  
   React Todo App — A Simple Task Manager.
