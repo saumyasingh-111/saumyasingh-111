@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Saumya Singh
 
 🎓 B.Tech CSE Student 
-💻 Aspiring Developer | Learning Java  
+💻 Aspiring Developer | Learning C++  
 🌟 Passionate about creating clean, user-friendly websites
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+🎮;Web+Developer+%7C+React+%7C+Learning+Java;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+🎮;Web+Developer+%7C+React+%7C+Learning+C++;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -19,14 +19,15 @@
 
 ### 🚀 Projects
 
+- 🌍 **[Artzy](https://github.com/saumyasingh-111/Wanderlust)**
+     **[Live](https://wanderlust-ahm4.onrender.com)**  
+  A Full-Stack project that plays with ideas of travel and interactivity.
+  
 - 🎮 **[Simon Says Game](https://github.com/saumyasingh-111/simon-says-game)**  
   A memory-based color game built with JavaScript and DOM manipulation.
 
 - 🎵 **[Spotify Clone](https://github.com/saumyasingh-111/spotify-clone)**  
   A simple front-end clone of the Spotify landing page using only HTML & CSS.
-
-- 🌍 **[Artzy](https://github.com/saumyasingh-111/Wanderlust)**  
-  A Full-Stack project that plays with ideas of travel and interactivity.
 
 - 🎯 **[Todo-App](https://github.com/saumyasingh-111/Todo-List)**  
   React Todo App — A Simple Task Manager.
