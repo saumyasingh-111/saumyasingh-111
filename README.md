@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+🎮;Web+Developer+%7C+React+%7C+Learning+Cpp;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saumyasingh-111&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Streak Stats](https://streak-stats.demolab.com?user=saumyasingh-111)
 
 
 ### 🛠️ Tech Stack
