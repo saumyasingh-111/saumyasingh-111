@@ -14,7 +14,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 
