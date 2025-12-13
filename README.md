@@ -1,3 +1,5 @@
+&theme=tokyonight
+
 # 👋 Hi there! I'm Saumya Singh
 
 🎓 B.Tech CSE Student 
