@@ -1,4 +1,3 @@
-&theme=tokyonight
 
 # 👋 Hi there! I'm Saumya Singh
 
@@ -15,7 +14,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
 </p>
 
 
