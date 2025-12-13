@@ -14,7 +14,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saumyasingh-111&theme=github-dark&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -31,11 +31,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8F4E09?style=for-the-badge&logo=ejs&logoColor=white)
-
 ### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,15 +49,12 @@
      **[Live](https://wanderlust-ahm4.onrender.com)**  
   A full-stack web app focused on travel discovery and interactivity.  
 **Tech:** React, Node.js, MongoDB
-  
 - 🎮 **[Simon Says Game](https://github.com/saumyasingh-111/simon-says-game)**  
   A memory-based color game using JavaScript and DOM manipulation.  
 **Tech:** HTML, CSS, JavaScript
-  
 - 🎵 **[Spotify Clone](https://github.com/saumyasingh-111/spotify-clone)**  
 Pixel-perfect front-end clone of Spotify landing page.  
-**Tech:** HTML, CSS
-  
+**Tech:** HTML, CSS 
 - 🎯 **[Todo-App](https://github.com/saumyasingh-111/Todo-List)**  
 A task management app with CRUD functionality.  
 **Tech:** React
@@ -70,19 +65,18 @@ A task management app with CRUD functionality.
 - Improving **DSA & Problem Solving**
 - Building projects with **React**
 - Preparing for **Frontend / Full-Stack internships**
-
+- 
+---
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-singh-417a72316)
 
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyasingh3234@gmail.com)
 
 I'm open to **internships, collaborations & learning opportunities**.
----
 
 ---
-⭐ Always learning. Always building.  
+⭐ Always learning. Always building.
 🚀 Open to opportunities & collaborations.
 
