@@ -11,17 +11,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=650&lines=Hi+I'm+Saumya+👋;Tech+Minimalist+🎮;Web+Developer+%7C+React+%7C+Learning+Cpp;Let's+Build+Cool+Things+Together+💻" alt="Typing SVG" />
 </p>
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  
-
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=shades-of-purple" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=shades-of-purple" alt="GitHub Streak" />
+  </a>
+  <br>
   Consistent daily learning & building 🚀
 </p>
+
 
 
 
