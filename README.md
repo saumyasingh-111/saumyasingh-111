@@ -14,9 +14,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=tokyonight" alt="GitHub Streak" /></a>
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=saumyasingh-111&theme=tokyonight-duo)](https://git.io/streak-stats)
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saumyasingh-111&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </p>
