@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Saumya Singh
+## 👋 Hi, I'm Saumya
 
 🧠 Focused on **DSA & Competitive Programming**  
 💻 Building with **React & JavaScript**  
