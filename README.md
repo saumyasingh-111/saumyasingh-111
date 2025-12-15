@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Saumya
 
-🧠 Focused on **DSA & Competitive Programming**  
-💻 Building with **React & JavaScript**  
-🌱 Currently learning **C++ (STL), Problem Solving & Web Development**  
-✨ Tech minimalist who believes in consistency over hype
+- Focused on **DSA & Competitive Programming**  
+- Building with **React & JavaScript**  
+- Currently learning **C++ (STL), Problem Solving & Web Development**  
+- Tech minimalist who believes in consistency over hype
 
 ---
 
