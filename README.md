@@ -10,7 +10,7 @@ Currently working with **C++, React, JavaScript & Node.js** and spending most of
   Built with Team SheCodes at the CSJMU × IBM hackathon, selected from **250+ teams**.
 
 * 🏅 **Prakriti EcoInnovate Challenge — IIT Guwahati**
-  Finished in the **Top 10** with Team Rasmalai.
+  Finished in the **Top 3** with Team Rasmalai.
 
 ### What I'm working on
 
